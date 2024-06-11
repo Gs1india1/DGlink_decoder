@@ -1,15 +1,3 @@
-
-# Project Title
-
-Hello From GS1inda
-
-This is our gs1 digital link decoder with both exe and node js file
-
-In order to use this utility
-
-* Install node in your system
-* Then clone the repository
-
 # Project Title
 
 Hello from GS1 India

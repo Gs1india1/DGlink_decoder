@@ -1,0 +1,15 @@
+{
+  "name": "barcode-parser",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx pkg index.js --output gs1parser"
+  },
+  "pkg": {
+    "assets": "node_modules/**/*"
+  },
+  "author": "GS1",
+  "license": "ISC"
+}
